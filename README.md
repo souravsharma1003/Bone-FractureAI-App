@@ -381,7 +381,7 @@ For issues, questions, or contributions:
 1. Check individual module READMEs
 2. Review troubleshooting section
 3. Check Git issues (if using GitHub)
-4. Contact: sourav.sharma@example.com
+4. Contact: souravsharma1003@gmail.com
 
 ## 📄 License
 
