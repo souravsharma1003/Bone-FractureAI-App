@@ -1,0 +1,76 @@
+############################
+# Node / JavaScript
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+############################
+# Frontend / Build Outputs
+############################
+frontend/dist/
+frontend/build/
+build/
+coverage/
+
+############################
+# Backend / Environment
+############################
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+############################
+# Python / AI
+############################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+############################
+# Jupyter
+############################
+.ipynb_checkpoints/
+Untitled*.ipynb
+
+############################
+# ML Models (VERY IMPORTANT)
+############################
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+aiproject/my_keras_model.keras
+
+############################
+# Datasets (DO NOT UPLOAD)
+############################
+dataset/
+aiproject/dataset/
+
+############################
+# Vercel / Deployment
+############################
+.vercel/
+
+############################
+# OS / Editor Junk
+############################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+############################
+# IDEs
+############################
+.vscode/
+.idea/
